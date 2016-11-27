@@ -25,6 +25,6 @@ Tutorial Content List:  <br>
 1.11 Project 11. Electronic Gradienter  <br>
 
 
-[Get the Kit here] (http://www.dfrobot.com/index.php?route=product/product&product_id=1491&search=genuino&description=true#.V4x5efmqqAw)
+[Get the Kit here] (http://www.domirobot.com/dfrobot-gravity-genuino-arduino-101-baslangic-kiti-pmu2782)
 
 # To Download, please click "Download ZIP"
